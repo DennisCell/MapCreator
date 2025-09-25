@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MapCreator Pro copy",
+  "description": "A client-side web application for creating general-purpose, data-rich maps. Users can place locations with customizable data fields, style them, draw connections, and export the final map as a static image or an interactive HTML file.",
+  "requestFramePermissions": []
+}
